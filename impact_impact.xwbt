@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=C:\Devel\Zedboard\OLED_on_ZedBoard\OLED_on_ZedBoard\impact.xsl
+OUTFILE=C:\Devel\Zedboard\OLED_on_ZedBoard\OLED_on_ZedBoard\impact.xsl
+FAMILY=Multiple
+PART=Multiple
+WORKINGDIR=C:\Devel\Zedboard\OLED_on_ZedBoard\OLED_on_ZedBoard
+LICENSE=iMPACT
+USER_INFO=iMPACT

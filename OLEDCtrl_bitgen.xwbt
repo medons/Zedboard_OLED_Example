@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Devel\Zedboard\OLED_on_ZedBoard\OLED_on_ZedBoard\OLEDCtrl.ncd
+OUTFILE=C:\Devel\Zedboard\OLED_on_ZedBoard\OLED_on_ZedBoard\OLEDCtrl.bit
+FAMILY=Zynq
+PART=xc7z020-3clg484
+WORKINGDIR=C:\Devel\Zedboard\OLED_on_ZedBoard\OLED_on_ZedBoard
+LICENSE=ISE
+USER_INFO=210688600_1777488151_210557906_108
